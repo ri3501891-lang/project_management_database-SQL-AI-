@@ -66,10 +66,7 @@
 - projects 1 - N project_assignees
 - assignees 1 - N project_assignees
 
-## 最終的な理解
 
-最初に考えた「project / tasks / assignee」という分け方自体は悪くなかった。  
-ただし、多対多の扱いを論理設計に落とすときには、中間テーブルが必要だった。
 
 今回の振り返りで、以下の違いを意識できるようになった。
 
