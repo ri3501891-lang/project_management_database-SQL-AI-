@@ -1,4 +1,4 @@
-# IT Project Management DB
+# IT Project Management DB  (生成AI利用）
 
 PostgreSQL を使って、ITプロジェクト管理システムを題材に DB設計・制約・インデックス・SQLレビューを練習する学習用リポジトリです。
 
